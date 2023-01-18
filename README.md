@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Everyone Mehdi Romdhani</h1>
-<h3 align="center">Actuellement étudiant 1re année de développement-web à la Plateforme (école du numérique) @Marseille,</h3>
+<h3 align="center">Actuellement étudianten 1re année de développement-web/mobile à la Plateforme (école du numérique) @Marseille,</h3>
 
 - 🔭Je travaille en ce moment sur POO JAVASCRIPT **Javascript**
 
