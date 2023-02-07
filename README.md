@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋,I'm Mehdi Romdhani</h1>
+<h1 align="center">Hello Everyone,I'm Mehdi Romdhani</h1>
 <h3 align="center">Currently a 1st year web development student at the Plateforme (digital school) @Marseille - fr</h3>
 
-- 🌱 I’m currently learning **PHP , JAVASCRIPT , POO**
+- 🌱 I’m currently learning **PHP7 ,JAVASCRIPT(ES6), P.O.O**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
