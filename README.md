@@ -1,7 +1,4 @@
-<h1 align="center">Hello 👋,I'm Mehdi Romdhani</h1>
-<h3 align="center">Student in Bachelor IT at La Plateforme school, I specialize in application design. My goal is to acquire the skills necessary to become a FullStack developer capable of designing applications from the front to the back end.</h3>
 
-- 🌱 I’m currently learning **Javascript, PHP, SQL, P.O.O, M.V.C**
 
 - 👨‍💻 All of my projects are available at [https://mehdi-romdhani.students-laplateforme.io/](https://mehdi-romdhani.students-laplateforme.io/)
 
