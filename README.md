@@ -1,9 +1,7 @@
 
 
-- 👨‍💻 All of my projects are available at [https://mehdi-romdhani.students-laplateforme.io/](https://mehdi-romdhani.students-laplateforme.io/)
-
 - 📫 How to reach me **Mehdi.Romdhani@laplateforme.io**
-
+- CDA / Web Developper
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/mehdi-romdhani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mehdi-romdhani/" height="30" width="40" /></a>
